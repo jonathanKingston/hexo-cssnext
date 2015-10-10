@@ -1,0 +1,21 @@
+{
+  "name": "hexo-cssnext",
+  "version": "0.0.1",
+  "description": "Adding cssnext into a Hexo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "cssnext"
+  ],
+  "author": "Jonathan Kingston",
+  "license": "MIT",
+  "dependencies": {
+    "cssnext": "^1.8.4",
+    "minimatch": "^3.0.0",
+    "object-assign": "^4.0.1",
+    "postcss": "^4.0.2"
+  }
+}
